@@ -1,0 +1,100 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "5de9370846a26947e03f63142a3f1c07",
+      "css": "flecha-arriba",
+      "code": 61702,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e4dde1992f787163e2e2b534b8c8067d",
+      "css": "flecha-abajo",
+      "code": 61703,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "csuoy0rqoun3unhsgjoy2uumpldzbfmt",
+      "css": "basura",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "484b4ad2058d17849f205c4054b6f315",
+      "css": "config",
+      "code": 59394,
+      "src": "linecons"
+    },
+    {
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1bafeeb1808a5fe24484c7890096901a",
+      "css": "user-agregar",
+      "code": 62004,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e3e12be877eab92e593ca185223e7a5b",
+      "css": "lapiz",
+      "code": 59397,
+      "src": "iconic"
+    },
+    {
+      "uid": "56b0141d7bbb0717fc6246ea145bc0bd",
+      "css": "check",
+      "code": 59398,
+      "src": "elusive"
+    },
+    {
+      "uid": "7bf14281af5633a597f85b061ef1cfb9",
+      "css": "flecha-derecha",
+      "code": 61701,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f3f90c8c89795da30f7444634476ea4f",
+      "css": "flecha-izquierda",
+      "code": 61700,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5048fb5dd929882d2bac1ad3777b0b7d",
+      "css": "filtrar",
+      "code": 59399,
+      "src": "elusive"
+    },
+    {
+      "uid": "9daa1fdf0838118518a7e22715e83abc",
+      "css": "pdf",
+      "code": 61889,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "178053298e3e5b03551d754d4b9acd8b",
+      "css": "doc",
+      "code": 61787,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "buscar",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0d20938846444af8deb1920dc85a29fb",
+      "css": "exit",
+      "code": 59395,
+      "src": "fontawesome"
+    }
+  ]
+}

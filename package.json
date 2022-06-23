@@ -7,6 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "autoprefixer": "^10.4.7",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.1",
+    "bootstrap-vue": "^2.22.0",
+    "portal-vue": "^2.1.7",
+    "vee-validate": "^3.4.14",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
